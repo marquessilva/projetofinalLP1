@@ -1,9 +1,3 @@
-/*
- * Controle.cpp
- *
- *  Created on: 17 de ago de 2018
- *      Author: ci
- */
 
 #include "Controle.h"
 
@@ -12,7 +6,17 @@ Controle::Controle() {
 
 }
 
-Controle::~Controle() {
-	// TODO Auto-generated destructor stub
+void Controle::autenticarLogin(Pessoa pessoa) {
 }
 
+void Controle::cadastrarAdministrador() {
+}
+
+void Controle::cadastrarPessoa(Pessoa pessoa) {
+}
+
+std::vector<int> Controle::listarPessoas() {
+}
+
+std::vector<int> Controle::listarAdministradores() {
+}
