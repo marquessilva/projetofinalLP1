@@ -36,7 +36,7 @@ public:
 
 	void solicitarCadastro(Pessoa pessoa);
 
-	void solititarLogin(Pessoa pessoa);
+	void solicitarLogin(Pessoa pessoa);
 };
 
 #endif
